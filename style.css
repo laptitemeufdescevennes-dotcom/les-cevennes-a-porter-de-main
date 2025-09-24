@@ -1,0 +1,1 @@
+body,html{margin:0;height:100%}#app{display:grid;grid-template-columns:360px 1fr;height:100vh;background:#0b1220}#sidebar{background:#0b1220;border-right:1px solid #1f2937;padding:14px;overflow:auto;color:#e5e7eb}.pill{display:inline-block;padding:4px 8px;border-radius:999px;background:#111827;border:1px solid #1f2937;color:#a7f3d0;font-size:12px}#map{height:100vh}
